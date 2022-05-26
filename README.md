@@ -3,9 +3,15 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🔭 I’m currently working on [my personal portfolio website](https://github.com/tagilv/my-portfolio)
+- 🧑‍⚕️ I’m currently working on a project for Swedish health care start-up Ryggskolan
 
-- 📫 How to reach me **viktor.tagil@gmail.com**
+- 🔭 Check out my portfolio: www.viktortagil.com
+
+- 🤝 I’m looking for a job with a great company with shared values and great people.
+
+- 💬 Swedish, English，Spanish (limited), 普通话
+
+- 📫 Reach me on **viktor.tagil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
