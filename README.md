@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🧑‍⚕️ I’m currently working on a project for Swedish health care start-up Ryggskolan
+- 🧑‍⚕️ I’m currently working on a project for a Swedish health care start-up, Ryggskolan
 
 - 🔭 Check out my portfolio: www.viktortagil.com
 
