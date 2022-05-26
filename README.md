@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for a job with a great company with shared values and great people.
 
-- 💬 Swedish, English，Spanish (limited), 普通话
+- 💬 Swedish, English, Spanish(limited), 普通话
 
 - 📫 Reach me on **viktor.tagil@gmail.com**
 
