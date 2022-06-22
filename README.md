@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viktor Tägil</h1>
+<h1 align="center">Hi 👋, I'm Viktor Tagil</h1>
 <h3 align="center">A full stack developer from Sweden based in Berlin</h3>
 
 - 🌱 I’m currently learning **React**
