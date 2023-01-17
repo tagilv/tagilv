@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Viktor Tagil</h1>
 <h3 align="center">A full stack developer from Sweden based in Berlin</h3>
 
-- 🌱 I’m currently learning more JavaScript and React
+- 🌱 Currently learning more JavaScript, React and Typescript
 
-- 🧑‍⚕️ I’m currently working on a project for a Swedish health care start-up, Ryggskolan
+- 🧑‍⚕️ Freelancing for Swedish health care start-up Ryggskolan
 
-- 🔭 Check out my portfolio: www.viktortagil.com
+<!-- - 🔭 Check out my portfolio: www.viktortagil.com -->
 
-- 💬 Swedish, English, Spanish(limited), 普通话
+- 💬 English, Swedish, 普通话
 
 - 📫 Reach me on **viktor.tagil@gmail.com**
 
