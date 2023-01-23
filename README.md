@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktor Tagil</h1>
-<h3 align="center">A full stack developer from Sweden based in Berlin</h3>
+<h3 align="center">I am a full stack developer from Sweden based in San Francisco</h3>
 
 - 🌱 Currently learning more JavaScript, React and Typescript
 
