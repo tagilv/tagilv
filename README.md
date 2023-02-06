@@ -3,11 +3,11 @@
 
 - 🌱 Currently learning more JavaScript, React and Typescript
 
-- 🧑‍⚕️ Freelancing for Swedish health care start-up Ryggskolan
-
-<!-- - 🔭 Check out my portfolio: www.viktortagil.com -->
+- 🧑‍⚕️ Building an MVP for Swedish health care start-up Ryggskolan
 
 - 💬 English, Swedish, 普通话
+
+- Looking for my next opportunity in the Bay Area
 
 - 📫 Reach me on **viktor.tagil@gmail.com**
 
