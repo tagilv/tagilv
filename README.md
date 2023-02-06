@@ -7,7 +7,7 @@
 
 - 💬 English, Swedish, 普通话
 
-- Looking for my next opportunity in the Bay Area
+-> Looking for my next opportunity in the Bay Area
 
 - 📫 Reach me on **viktor.tagil@gmail.com**
 
