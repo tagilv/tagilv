@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">I am a full stack developer from Sweden based in San Francisco</h3>
 
-- 🌱 Currently learning more Typescript and Next.js
+- 🌱 Currently learning more NextJS and TS
 
-- 🧑‍⚕️ Building an MVP for Swedish health care start-up Ryggskolan and working on the Code Academy Berlin student portal
+- 🧑‍⚕️ Building an MVP for Swedish health care startup and working on the Code Academy Berlin student portal
 
 - 💬 English, Swedish, Mandarin, Spanish
 
