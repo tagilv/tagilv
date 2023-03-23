@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">I am a full stack developer from Sweden based in San Francisco</h3>
+<h3 align="center">I am a developer based in San Francisco</h3>
 
 - 🌱 Currently learning more TS
 
-- 🧑‍⚕️ Building an MVP for Swedish health care startup and working on the Code Academy Berlin student portal
+- 👨🏻‍💻 Working on my own nextjs app and on the Code Academy Berlin student portal
 
 - 💬 English, Swedish, Mandarin, Spanish
 
-Looking for my next opportunity in San Francisco/Bay Area
+- 🫱🏻‍🫲🏼 Looking for my next opportunity in San Francisco/Bay Area
 
 - 📫 Reach me on **viktor.tagil@gmail.com**
 
