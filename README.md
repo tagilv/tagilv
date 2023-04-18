@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">I am a developer based in San Francisco</h3>
 
-- 🌱 Currently learning more TS
+- 👨🏻‍💻 Currently Freelancing for a startup building a nextjs application
 
-- 👨🏻‍💻 Working on my own nextjs app and on the Code Academy Berlin student portal
+- 🌱 Learning more TypeScript
 
-- 💬 English, Swedish, Mandarin, Spanish
+- 💬 English, Swedish, Mandarin Chinese
 
-- 🫱🏻‍🫲🏼 Looking for my next opportunity in San Francisco/Bay Area
+- 🫱🏻‍🫲🏼 Looking for a full time opportunity in San Francisco/Bay Area
 
 - 📫 Reach me on **viktor.tagil@gmail.com**
 
