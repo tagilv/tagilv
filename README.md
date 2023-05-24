@@ -7,7 +7,7 @@
 
 - 💬 English, Swedish, Mandarin Chinese
 
-- 🫱🏻‍🫲🏼 Looking for a full time opportunity in San Francisco/Bay Area
+- 🫱🏻‍🫲🏼 Looking for a full time opportunity in Berlin
 
 - 📫 Reach me on **viktor.tagil@gmail.com**
 
