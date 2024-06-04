@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">I am a developer based in San Francisco</h3>
 
-- 👨🏻‍💻 Currently Freelancing for BootstrapLabs Building a Frontend Application
-
-- 🌱 Learning more TypeScript
-
-- 💬 English, Swedish, Mandarin Chinese
-
-- 🫱🏻‍🫲🏼 Looking for a full time opportunity in SF
+- 👨🏻‍💻 Currently at Shook Digital
 
 - 📫 Reach me on **viktor.tagil@gmail.com**
 
