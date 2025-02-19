@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">I am a developer based in Berlin</h3>
 
-- 👨🏻‍💻 Currently at Shook Digital
+- Currently at Shook Digital 👨🏻‍💻 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
