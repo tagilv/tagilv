@@ -7,7 +7,7 @@
 
 - Full stack development with **modern JavaScript frameworks** and **libraries**
 - Core technology expertise in **React**, **TypeScript**, **Next.js**, **GraphQL**, and **Prisma**
-- Feature development in **collaboration with customers**, translating business needs into **technical solutions**
+- Feature development in **collaboration with customers**, translating **business needs** into **technical solutions**
 - **GraphQL API** design and optimization using **Pothos**, **Prisma**, and efficient data fetching patterns
 - **Cloud asset management** with **Cloudinary** integration for media processing and delivery
 - **7+ years** of **international startup experience** in **San Francisco**, **Berlin** and **Shanghai**
