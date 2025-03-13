@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-
-<h3 align="center">I am a full stack developer based in Berlin:</h3>
+<h3 align="center">I am a full stack developer based in Berlin</h3>
 
 - 👨🏻‍💻 Currently building **SaaS platform** at **Shook Digital** that leverages **React**, **TypeScript**, **Next.js**, **GraphQL with Pothos and urql**, **Prisma ORM** to automate and scale creative production
 
@@ -21,7 +20,6 @@
 - Chakra UI, Tailwind CSS
 - Cloudinary for asset management
 - Google cloud tools
-
 - Ruby, Ruby on Rails
 - MongoDB, Firebase
 - Meta API
