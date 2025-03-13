@@ -5,6 +5,7 @@
 - 👨🏻‍💻 Currently building **SaaS platform** at **Shook Digital** that leverages **React**, **TypeScript**, **Next.js**, **GraphQL with Pothos and urql**, **Prisma ORM** to automate and scale creative production
 
 <h3 align="left">Professional Experience:</h3>
+
 - **Full stack development** with modern JavaScript frameworks and libraries
 - **Core technology expertise** in React, TypeScript, Next.js, GraphQL, and Prisma
 - **Feature development in collaboration with customers**, translating business needs into technical solutions
@@ -13,7 +14,7 @@
 - **7+ years of international startup experience** in San Francisco, Berlin and Shanghai
 
 <h3 align="left">Tech Stack:</h3>
-**Core:**
+
 - TypeScript, JavaScript, Node.js, React
 - GraphQL (Pothos & Urql), Express.js, Next.js
 - Prisma ORM, PostgreSQL
