@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">Full Stack Developer based in Berlin</h3>
 
-- Currently building **SaaS platform** at **Shook Digital** that leverages **React**, **TypeScript**, **Next.js**, **GraphQL with Pothos and urql**, **Prisma ORM** to automate and scale creative production
+- Software Developer Currently building **SaaS platform** at **Shook Digital** that leverages **React**, **TypeScript**, **Next.js**, **GraphQL with Pothos and urql**, **Prisma ORM** to automate and scale creative production
 
 <h3 align="left">Professional Experience:</h3>
 
