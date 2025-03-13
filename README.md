@@ -12,7 +12,7 @@
 - **Cloud asset management** with **Cloudinary** integration for media processing and delivery
 - **7+ years** of **international startup experience** in **San Francisco**, **Berlin** and **Shanghai**
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">Stack/Skills:</h3>
 
 - TypeScript, JavaScript, Node.js, React
 - GraphQL (Pothos & Urql), Express.js, Next.js
@@ -23,6 +23,7 @@
 - Ruby, Ruby on Rails
 - MongoDB, Firebase
 - Meta API
+- HTML, CSS
 - UI/UX Design
 
 <h3 align="left">Connect with me:</h3>
