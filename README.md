@@ -14,19 +14,7 @@
 
 <h3 align="left">Stack/Skills:</h3>
 
-- TypeScript, JavaScript, Node.js, React
-- GraphQL (Pothos & Urql), Express.js, Next.js
-- Prisma ORM, PostgreSQL
-- Chakra UI, Tailwind CSS
-- Cloudinary for asset management
-- Google cloud tools
-- Ruby, Ruby on Rails
-- MongoDB, Firebase
-- Meta API
-- HTML, CSS
-- UI/UX Design
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/viktortagil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktortagil" height="30" width="40" /></a>
-</p>
+- Frontend: TypeScript, JavaScript, React, Next.js, GraphQL Client (Urql), HTML, CSS, Chakra UI, Tailwind CSS
+- Backend: Node.js, Express, GraphQL (Pothos), Prisma ORM, Ruby, Ruby on Rails
+- Databases: PostgreSQL, Firebase
+- Other: Cloudinary for asset management, Google Cloud tools
