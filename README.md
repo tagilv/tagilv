@@ -12,9 +12,9 @@
 - **Cloud asset management** with **Cloudinary** integration for media processing and delivery
 - **7+ years** of **international startup experience** in **San Francisco**, **Berlin** and **Shanghai**
 
-<h3 align="left">Stack/Skills:</h3>
+<h3 align="left">Stack:</h3>
 
-- Frontend: TypeScript, JavaScript, React, Next.js, GraphQL Client (Urql), HTML, CSS, Chakra UI, Tailwind CSS
-- Backend: Node.js, Express, GraphQL (Pothos), Prisma ORM, Ruby, Ruby on Rails
-- Databases: PostgreSQL, Firebase
-- Other: Cloudinary for asset management, Google Cloud tools
+- **Frontend:** TypeScript, JavaScript, React, Next.js, GraphQL Client (Urql), HTML, CSS, Chakra UI, Tailwind CSS
+- **Backend:** Node.js, Express, GraphQL (Pothos), Prisma ORM, Ruby, Ruby on Rails
+- **Databases:** PostgreSQL, Firebase
+- **Other:** Cloudinary for asset management, Google Cloud tools
