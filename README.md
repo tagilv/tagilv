@@ -5,7 +5,7 @@
 
 <h3 align="left">Professional Experience:</h3>
 
-- Full stack development with **modern JavaScript frameworks** and **libraries**
+- Full stack development with modern **JavaScript frameworks** and **libraries**
 - Core technology expertise in **React**, **TypeScript**, **Next.js**, **GraphQL**, and **Prisma**
 - Feature development in **collaboration with customers**, translating **business needs** into **technical solutions**
 - **GraphQL API** design and optimization using **Pothos**, **Prisma**, and efficient data fetching patterns
