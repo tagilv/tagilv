@@ -9,7 +9,7 @@
 - Core technology expertise in **React**, **TypeScript**, **Next.js**, **GraphQL**, and **Prisma**
 - Feature development in **collaboration with customers**, translating **business needs** into **technical solutions**
 - **GraphQL API** design and optimization using **Pothos**, **Prisma**, and efficient data fetching patterns
-- **Cloud asset management** with **Cloudinary** integration for media processing and delivery
+- **Cloud asset management** with Cloudinary integration for media processing and delivery
 - **7+ years** of **international startup experience** in **San Francisco**, **Berlin** and **Shanghai**
 
 <h3 align="left">Stack:</h3>
